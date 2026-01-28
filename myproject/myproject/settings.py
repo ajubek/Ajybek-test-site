@@ -98,7 +98,7 @@ DATABASES = {
         'NAME': 'lalafo_app',
         'USER': 'postgres',
         'PASSWORD': 'admin',
-        'HOST': 'localhost',
+        'HOST': 'db',
         'PORT': 5432
     }
 }
